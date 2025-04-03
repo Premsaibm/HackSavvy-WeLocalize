@@ -1,4 +1,4 @@
-# HackSavvy-Speech Emotion Recognition(SER) on Live Calls
+# HackSavvy-Speech Emotion Recognition(SER)
 
 HackSavvy 2024 is an national level hackathon which was held on 20th march 2024 in Mahatma Gandhi Institute of Technology (MGIT).
 
