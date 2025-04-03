@@ -36,12 +36,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Authors and Acknowledgement
-
--> Maryala Harshitha <br/>
--> Mallupally Deepika <br/>
--> Pamula Swathi <br/>
--> Reddy Leela Venkata Krishna Prasad </br>
 <br/><br/>
 Thank you for Hacksavvy-2k24 for providing such a huge platform for such innovative idea’s collaboration in technology era. We are so excited and enjoy such environment of coding for 24 hours. Thank you all my group members your ideas, hard work along with patience  can only  help us  to complete such a kind of problem statement!.
 
